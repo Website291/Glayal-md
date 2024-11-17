@@ -1,36 +1,36 @@
 {
-  "name": "gifted-md",
-  "description": "I am Gifted-Md WhatsApp MultiDevice Bot built in NodeJs to enhance the experience",
+  "name": "hashan-md",
+  "description": "I am Hashan-Md WhatsApp MultiDevice Bot built in NodeJs to enhance the experience",
   "website": "https://session.giftedtech.my.id",
-  "logo": "https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg",
-  "keywords": ["gifted-md", "giftedtech", "Gifted-Md"],
+  "logo": "https://i.ibb.co/PD4h18R/YPEh-TWYQ3571.jpg",
+  "keywords": ["hashan-md", "hashantech", "Hashan-Md"],
   "repository": "https://github.com/mouricedevs/gifted",
   "success_url": "/",
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Your session id. Must Start with Gifted~",
+      "description": "Gifted~XrUW2a7J",
       "required": true
     },
     "MODE": {
       "description": "set Mode  to public or private",
       "required": false,
-      "value": "private"
+      "value": "public"
     },
     "OWNER_NAME": {
       "description": "Put Owner Name Here",
       "required": true,
-      "value": "Gifted Tech"
+      "value": "Hashan Tech"
     },
     "OWNER_NUMBER": {
       "description": "Put Owner Number Here",
       "required": true,
-      "value": "254762016957"
+      "value": "94741026371"
     },
     "SUDO_NUMBERS": {
       "description": "Put Sudo Numbers separated by comma Here. Sudos are limited to owner commands else leave blank",
       "required": false,
-      "value": "254762016957,254728746852,254742063632"
+      "value": "94707230540,94763818356,94706042889"
     },
     "AUTO_READ_STATUS": {
       "description": "Make it true if you want bot to view status else leave blank",
